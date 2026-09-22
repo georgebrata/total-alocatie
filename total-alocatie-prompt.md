@@ -1,6 +1,5 @@
-# Coding-agent prompt: „Alocația mea”
-
-Act as a senior full-stack engineer and product designer. Build a simple, polished Romanian-language web application called **„Alocația mea”** that helps someone understand their historical Romanian child allowance and share an attractive, privacy-conscious summary.
+# Coding-agent prompt: "Total Alocație"
+Act as a senior full-stack engineer and product designer. Build a simple, polished Romanian-language web application called **Total Alocație** that helps someone understand their historical Romanian child allowance and share an attractive, privacy-conscious summary.
 
 Deliver working code, tests, documented legal data, and setup instructions—not just a mockup or implementation plan. Keep the interface simple even when the calculation rules are complex. Use English identifiers and concise comments explaining non-obvious decisions; use natural Romanian with diacritics throughout the UI.
 

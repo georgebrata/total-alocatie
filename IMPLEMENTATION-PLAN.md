@@ -1,4 +1,4 @@
-# Implementation plan — Alocația mea
+# Implementation plan — Total Alocație
 ## 1. Objective and non-negotiable boundaries
 Implement the application in this repository, preserving the [original product specification](total-alocatie-prompt.md). Deliver working source, automated tests, versioned legal data, privacy/security documentation, and reproducible setup instructions.
 - Anonymous calculation and image export work without Clerk or a network connection after application assets load. Inputs remain in memory unless the user deliberately constents to creating an account (optional).
